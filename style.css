@@ -1,0 +1,35 @@
+
+html {
+
+    height: 100%;
+
+}
+
+body {
+
+    height: 100%;
+    margin: 0;
+
+}
+
+.img-conteudo {
+
+    height: 100%;
+    width: 40%;
+    float: right;
+    background-image: url(images/hero-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#conteudo {
+
+    height: 100%;
+    width: 60%;
+    float: left;
+    clear: both;
+    padding: 60px 140px;
+    box-sizing: border-box;
+
+}
