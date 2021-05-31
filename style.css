@@ -9,6 +9,7 @@ body {
 
     height: 100%;
     margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
 
 }
 
@@ -29,7 +30,43 @@ body {
     width: 60%;
     float: left;
     clear: both;
-    padding: 60px 140px;
+    padding: 60px 160px;
     box-sizing: border-box;
+
+}
+
+#title {
+
+    margin-top: 180px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    font-size: 100px;
+    color: hsl(0, 6%, 24%);
+
+}
+
+#title_semi {
+
+    font-weight: 300;
+    color: hsl(0, 36%, 70%);
+
+}
+
+p {
+
+    line-height: 1.8;
+    color: hsl(0, 36%, 70%);
+    width: 50%;
+    font-size: 16px;
+}
+
+input {
+
+    border-radius: 20px;
+    padding: 15px 20px;
+    width: 60%;
+    border: 1px solid hsl(0, 36%, 70%);
 
 }
