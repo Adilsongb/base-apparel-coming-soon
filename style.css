@@ -60,13 +60,37 @@ p {
     color: hsl(0, 36%, 70%);
     width: 50%;
     font-size: 16px;
+    margin-bottom: 30px;
 }
 
 input {
 
-    border-radius: 20px;
-    padding: 15px 20px;
+    border-radius: 25px;
+    padding: 18px 25px;
     width: 60%;
-    border: 1px solid hsl(0, 36%, 70%);
+    border: 1.5px solid hsl(0, 36%, 70%);
+    color: hsl(0, 36%, 70%);
+
+}
+
+::-webkit-input-placeholder {
+    color: hsl(0, 36%, 70%);
+}
+ 
+:-moz-placeholder { /* Firefox 18- */
+    color: hsl(0, 36%, 70%);
+}
+ 
+::-moz-placeholder {  /* Firefox 19+ */
+    color: hsl(0, 36%, 70%);
+}
+ 
+:-ms-input-placeholder {  
+    color: hsl(0, 36%, 70%);
+}
+
+input:focus {
+
+    outline: none;
 
 }
