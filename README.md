@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/adilsongb/base-apparel-coming-soon)
+- Live Site URL: [Site](https://base-apparel-coming-soon-adilsongb.vercel.app/)
 
 ## My process
 
